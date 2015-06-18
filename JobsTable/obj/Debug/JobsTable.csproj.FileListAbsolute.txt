@@ -1,0 +1,7 @@
+c:\users\davidm\documents\visual studio 2012\Projects\JobsTable\JobsTable\bin\JobsTable.dll
+c:\users\davidm\documents\visual studio 2012\Projects\JobsTable\JobsTable\bin\JobsTable.pdb
+c:\users\davidm\documents\visual studio 2012\Projects\JobsTable\JobsTable\bin\Newtonsoft.Json.dll
+c:\users\davidm\documents\visual studio 2012\Projects\JobsTable\JobsTable\bin\Newtonsoft.Json.xml
+c:\users\davidm\documents\visual studio 2012\Projects\JobsTable\JobsTable\obj\Debug\JobsTable.dll
+c:\users\davidm\documents\visual studio 2012\Projects\JobsTable\JobsTable\obj\Debug\JobsTable.pdb
+c:\users\davidm\documents\visual studio 2012\Projects\JobsTable\JobsTable\obj\Debug\JobsTable.csprojResolveAssemblyReference.cache
